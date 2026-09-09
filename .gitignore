@@ -1,0 +1,4 @@
+.venv/
+.vscode/
+.env
+.src/dominio/__pycache__
